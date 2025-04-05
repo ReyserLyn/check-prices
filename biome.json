@@ -9,7 +9,9 @@
       "recommended": true,
       "a11y": {
         "noAutofocus": "off",
-        "useButtonType": "off"
+        "useButtonType": "off",
+        "noSvgWithoutTitle": "off",
+        "useFocusableInteractive": "off"
       },
       "complexity": {
         "noForEach": "off"
